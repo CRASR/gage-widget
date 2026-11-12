@@ -1,0 +1,3 @@
+tool_id,product,provider,model,access_mode,account_type,trains_on_inputs,first_used,last_used,notes
+claude-unrecorded,Claude,Anthropic,not recorded,web,,unknown,2026-10-02,2026-10-09,Reconstructed from file dates and the logo's C2PA content credential (signed by Anthropic); maintainer to confirm model and access mode
+claude-web-opus-5.5,Claude,Anthropic,Opus 5.5,web,,unknown,2026-11-12,2026-11-12,
